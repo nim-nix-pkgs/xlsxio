@@ -9,7 +9,7 @@
   
   inputs.src-xlsxio-main.flake = false;
   inputs.src-xlsxio-main.owner = "jiiihpeeh";
-  inputs.src-xlsxio-main.ref   = "refs/heads/main";
+  inputs.src-xlsxio-main.ref   = "main";
   inputs.src-xlsxio-main.repo  = "xlsxio-nim";
   inputs.src-xlsxio-main.type  = "github";
   
