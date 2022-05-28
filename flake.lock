@@ -68,11 +68,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1652798001,
-        "narHash": "sha256-PwJjZdw7yq8+WByKgHA5/zgxJVtkSew0QTNHtuRIz4w=",
+        "lastModified": 1653690334,
+        "narHash": "sha256-96IP+H4gFpSSTv7NCUs2dgrHnjw87NoZm/m/GBt0+NQ=",
         "owner": "nim-nix-pkgs",
         "repo": "xlsxio",
-        "rev": "2753a3fa328f06bb3035a2bc4e56280485811de6",
+        "rev": "e6a01307fbdecf96b407d330addb59844c69799b",
         "type": "github"
       },
       "original": {
